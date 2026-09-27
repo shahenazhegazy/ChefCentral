@@ -1,0 +1,146 @@
+{
+  "reviewed": "2026-09-27",
+  "context": "Independent-brand products observed on Gourmet Egypt retail pages; sourcing candidates only, not Chef Central stock, supplier relationships or trade prices.",
+  "products": [
+    {
+      "name": "Barilla Gluten Free Spaghetti",
+      "brand": "Barilla",
+      "category": "Pantry",
+      "subcategory": "Pasta",
+      "source": "https://gourmetegypt.com/barilla-gluten-free-spaghetti"
+    },
+    {
+      "name": "Barilla Fettuccine Toscane",
+      "brand": "Barilla",
+      "category": "Pantry",
+      "subcategory": "Pasta",
+      "source": "https://gourmetegypt.com/barilla-fettuccine-toscane"
+    },
+    {
+      "name": "Barilla Integrale Fusilli Whole Wheat Pasta",
+      "brand": "Barilla",
+      "category": "Pantry",
+      "subcategory": "Pasta",
+      "source": "https://gourmetegypt.com/barilla-integrale-fusilli-whole-wheat-pasta"
+    },
+    {
+      "name": "Barilla Rigatoni Pasta",
+      "brand": "Barilla",
+      "category": "Pantry",
+      "subcategory": "Pasta",
+      "source": "https://gourmetegypt.com/barilla-rigatoni-pasta"
+    },
+    {
+      "name": "Barilla Spaghetti n. 5",
+      "brand": "Barilla",
+      "category": "Pantry",
+      "subcategory": "Pasta",
+      "source": "https://gourmetegypt.com/barilla-spaghetti-n-5"
+    },
+    {
+      "name": "Barilla Genovese Pesto Sauce",
+      "brand": "Barilla",
+      "category": "Pantry",
+      "subcategory": "Sauces",
+      "source": "https://gourmetegypt.com/barilla-genovese-pesto-sauce"
+    },
+    {
+      "name": "Liguori Lasagna",
+      "brand": "Liguori",
+      "category": "Pantry",
+      "subcategory": "Pasta",
+      "source": "https://gourmetegypt.com/liguori-lasagna"
+    },
+    {
+      "name": "Liguori Pasta Chifferini",
+      "brand": "Liguori",
+      "category": "Pantry",
+      "subcategory": "Pasta",
+      "source": "https://gourmetegypt.com/liguori-pasta-chifferini"
+    },
+    {
+      "name": "Liguori Pasta Casarecce",
+      "brand": "Liguori",
+      "category": "Pantry",
+      "subcategory": "Pasta",
+      "source": "https://gourmetegypt.com/liguori-pasta-casarecce"
+    },
+    {
+      "name": "Liguori Gluten Free Penne Rigate Pasta",
+      "brand": "Liguori",
+      "category": "Pantry",
+      "subcategory": "Pasta",
+      "source": "https://gourmetegypt.com/liguori-gluten-free-penne-rigate-pasta"
+    },
+    {
+      "name": "Alpro Almond Roasted No Sugars 1L",
+      "brand": "Alpro",
+      "category": "Drinks",
+      "subcategory": "Plant-based drinks",
+      "source": "https://gourmetegypt.com/alpro-almond-milk-sugar-free"
+    },
+    {
+      "name": "Alpro Barista Soya 1L",
+      "brand": "Alpro",
+      "category": "Drinks",
+      "subcategory": "Barista drinks",
+      "source": "https://gourmetegypt.com/alpro-low-sugar-soya-milk"
+    },
+    {
+      "name": "Alpro Coconut Barista 1L",
+      "brand": "Alpro",
+      "category": "Drinks",
+      "subcategory": "Barista drinks",
+      "source": "https://gourmetegypt.com/alpro-coconut-drink-for-professionals"
+    },
+    {
+      "name": "Alpro Barista Almond 1L",
+      "brand": "Alpro",
+      "category": "Drinks",
+      "subcategory": "Barista drinks",
+      "source": "https://gourmetegypt.com/alpro-almond-drink-for-professionals"
+    },
+    {
+      "name": "Juhayna Original Greek Yoghurt 180g",
+      "brand": "Juhayna",
+      "category": "Cheese, dairy & prepared salads",
+      "subcategory": "Yoghurt",
+      "source": "https://gourmetegypt.com/juhayna-original-greek-yoghurt"
+    },
+    {
+      "name": "Juhayna Balanced Greek Yogurt 180g",
+      "brand": "Juhayna",
+      "category": "Cheese, dairy & prepared salads",
+      "subcategory": "Yoghurt",
+      "source": "https://gourmetegypt.com/juhayna-greek-yoghurt-2-fat"
+    },
+    {
+      "name": "Juhayna Cocktail Classic Juice 1L",
+      "brand": "Juhayna",
+      "category": "Drinks",
+      "subcategory": "Juice",
+      "source": "https://gourmetegypt.com/juhayna-cocktail-classic-juice"
+    },
+    {
+      "name": "Juhayna Pure Cocktail Juice 235ml",
+      "brand": "Juhayna",
+      "category": "Drinks",
+      "subcategory": "Juice",
+      "source": "https://gourmetegypt.com/juhayna-pure-cocktail-juice"
+    },
+    {
+      "name": "Hero Strawberry Jam",
+      "brand": "Hero",
+      "category": "Pantry",
+      "subcategory": "Preserves",
+      "source": "https://gourmetegypt.com/hero-strawberry-jam"
+    },
+    {
+      "name": "Linah Medjool Dates with Dark Chocolate & Nuts",
+      "brand": "Linah",
+      "category": "Pantry",
+      "subcategory": "Dates",
+      "source": "https://gourmetegypt.com/linah-medjool-dates-with-dark-chocolate-nuts"
+    }
+  ]
+}

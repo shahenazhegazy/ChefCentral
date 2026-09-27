@@ -1,0 +1,2590 @@
+{
+  "reviewed": "2026-09-27",
+  "context": "Third-party products observed on RDNA retail category pages. These are sourcing research leads, not Chef Central stock, contracts or wholesale prices. Retail prices may vary by location and date.",
+  "products": [
+    {
+      "name": "Flour Hazelnut",
+      "brand": "Good Hands",
+      "category": "Bakery",
+      "subcategory": "Flour",
+      "source": "https://rdnastore.com/product-category/baking/",
+      "retail_reference": "EGP 300.00"
+    },
+    {
+      "name": "Bar The Oat Fudge",
+      "brand": "Granville",
+      "category": "Bakery",
+      "subcategory": "Pastries",
+      "source": "https://rdnastore.com/product-category/bakeries-pastries/pastries/",
+      "retail_reference": "EGP 110.00"
+    },
+    {
+      "name": "Bar Vegan Fudge Brownie",
+      "brand": "Granville",
+      "category": "Bakery",
+      "subcategory": "Pastries",
+      "source": "https://rdnastore.com/product-category/bakeries-pastries/pastries/",
+      "retail_reference": "EGP 125.00"
+    },
+    {
+      "name": "Cookies Chocolate Chunk",
+      "brand": "Granville",
+      "category": "Bakery",
+      "subcategory": "Pastries",
+      "source": "https://rdnastore.com/product-category/bakeries-pastries/pastries/",
+      "retail_reference": "EGP 75.00"
+    },
+    {
+      "name": "Cookies The Breakfast",
+      "brand": "Granville",
+      "category": "Bakery",
+      "subcategory": "Pastries",
+      "source": "https://rdnastore.com/product-category/bakeries-pastries/pastries/",
+      "retail_reference": "EGP 115.00"
+    },
+    {
+      "name": "Cookies Vegan Chocolate Chunk",
+      "brand": "Granville",
+      "category": "Bakery",
+      "subcategory": "Pastries",
+      "source": "https://rdnastore.com/product-category/bakeries-pastries/pastries/",
+      "retail_reference": "EGP 75.00"
+    },
+    {
+      "name": "Rice Crispy Square Breakfast Cookie",
+      "brand": "Granville",
+      "category": "Bakery",
+      "subcategory": "Pastries",
+      "source": "https://rdnastore.com/product-category/bakeries-pastries/pastries/",
+      "retail_reference": "EGP 85.00"
+    },
+    {
+      "name": "Rice Crispy Square Matcha Rose",
+      "brand": "Granville",
+      "category": "Bakery",
+      "subcategory": "Pastries",
+      "source": "https://rdnastore.com/product-category/bakeries-pastries/pastries/",
+      "retail_reference": "EGP 85.00"
+    },
+    {
+      "name": "Cake Raw Tahina",
+      "brand": "Kaju",
+      "category": "Bakery",
+      "subcategory": "Vegan Desserts",
+      "source": "https://rdnastore.com/product-category/vegan/",
+      "retail_reference": "EGP 161.00"
+    },
+    {
+      "name": "Xanthan Gum",
+      "brand": "Kombucha Egypt",
+      "category": "Bakery",
+      "subcategory": "Baking Additions",
+      "source": "https://rdnastore.com/product-category/baking/",
+      "retail_reference": "EGP 280.00"
+    },
+    {
+      "name": "Rice Cake Lightly Salted",
+      "brand": "Organic Nation",
+      "category": "Bakery",
+      "subcategory": "Pastries",
+      "source": "https://rdnastore.com/product-category/bakeries-pastries/pastries/",
+      "retail_reference": "EGP 70.00"
+    },
+    {
+      "name": "Rice Cake Salted Mixed Seeds",
+      "brand": "Organic Nation",
+      "category": "Bakery",
+      "subcategory": "Pastries",
+      "source": "https://rdnastore.com/product-category/bakeries-pastries/pastries/",
+      "retail_reference": "EGP 70.00"
+    },
+    {
+      "name": "Rice Cake Tomato Basil",
+      "brand": "Organic Nation",
+      "category": "Bakery",
+      "subcategory": "Pastries",
+      "source": "https://rdnastore.com/product-category/bakeries-pastries/pastries/",
+      "retail_reference": "EGP 70.00"
+    },
+    {
+      "name": "Baladi Bread",
+      "brand": "Sekem",
+      "category": "Bakery",
+      "subcategory": "Bread",
+      "source": "https://rdnastore.com/product-category/bakeries-pastries/bread/",
+      "retail_reference": "EGP 20.00"
+    },
+    {
+      "name": "Flour Rye Organic",
+      "brand": "Sekem",
+      "category": "Bakery",
+      "subcategory": "Flour",
+      "source": "https://rdnastore.com/product-category/baking/",
+      "retail_reference": "EGP 50.00"
+    },
+    {
+      "name": "Flour White Organic",
+      "brand": "Sekem",
+      "category": "Bakery",
+      "subcategory": "Flour",
+      "source": "https://rdnastore.com/product-category/baking/",
+      "retail_reference": "EGP 47.00"
+    },
+    {
+      "name": "Butter Natural Unsalted",
+      "brand": "Almarai",
+      "category": "Cheese, dairy & prepared salads",
+      "subcategory": "Butter",
+      "source": "https://rdnastore.com/product-category/dairy-eggs-cheese/",
+      "retail_reference": "EGP 265.00"
+    },
+    {
+      "name": "Milk Full Cream (1L)",
+      "brand": "Almarai",
+      "category": "Cheese, dairy & prepared salads",
+      "subcategory": "Milk",
+      "source": "https://rdnastore.com/product-category/dairy-eggs-cheese/milk/",
+      "retail_reference": "EGP 55.00"
+    },
+    {
+      "name": "Milk Skimmed Cream (1L)",
+      "brand": "Almarai",
+      "category": "Cheese, dairy & prepared salads",
+      "subcategory": "Milk",
+      "source": "https://rdnastore.com/product-category/dairy-eggs-cheese/milk/",
+      "retail_reference": "EGP 55.00"
+    },
+    {
+      "name": "Whipping Cream (1L)",
+      "brand": "Almarai",
+      "category": "Cheese, dairy & prepared salads",
+      "subcategory": "Cream",
+      "source": "https://rdnastore.com/product-category/dairy-eggs-cheese/",
+      "retail_reference": "EGP 300.00"
+    },
+    {
+      "name": "Whipping Cream (500ml)",
+      "brand": "Almarai",
+      "category": "Cheese, dairy & prepared salads",
+      "subcategory": "Cream",
+      "source": "https://rdnastore.com/product-category/dairy-eggs-cheese/",
+      "retail_reference": "EGP 156.00"
+    },
+    {
+      "name": "Butter Buffalo",
+      "brand": "Bostan Setelhosn",
+      "category": "Cheese, dairy & prepared salads",
+      "subcategory": "Butter",
+      "source": "https://rdnastore.com/product-category/dairy-eggs-cheese/",
+      "retail_reference": "EGP 250.00"
+    },
+    {
+      "name": "Cheese Camembert (200g)",
+      "brand": "Freddy'S",
+      "category": "Cheese, dairy & prepared salads",
+      "subcategory": "Cheese",
+      "source": "https://rdnastore.com/product-category/dairy-eggs-cheese/cheese/",
+      "retail_reference": "EGP 155.00"
+    },
+    {
+      "name": "Fresh Cheese Feta Greek Traditional (200g)",
+      "brand": "Freddy'S",
+      "category": "Cheese, dairy & prepared salads",
+      "subcategory": "Cheese",
+      "source": "https://rdnastore.com/product-category/dairy-eggs-cheese/cheese/",
+      "retail_reference": "EGP 135.00"
+    },
+    {
+      "name": "Fresh Cheese Halloumi (250g)",
+      "brand": "Freddy'S",
+      "category": "Cheese, dairy & prepared salads",
+      "subcategory": "Cheese",
+      "source": "https://rdnastore.com/product-category/dairy-eggs-cheese/cheese/",
+      "retail_reference": "EGP 156.00"
+    },
+    {
+      "name": "Goat Cheese Ashed (150g)",
+      "brand": "Freddy'S",
+      "category": "Cheese, dairy & prepared salads",
+      "subcategory": "Cheese",
+      "source": "https://rdnastore.com/product-category/dairy-eggs-cheese/cheese/",
+      "retail_reference": "EGP 135.00"
+    },
+    {
+      "name": "Goat Cheese Garlic & Thyme (150g)",
+      "brand": "Freddy'S",
+      "category": "Cheese, dairy & prepared salads",
+      "subcategory": "Cheese",
+      "source": "https://rdnastore.com/product-category/dairy-eggs-cheese/cheese/",
+      "retail_reference": "EGP 135.00"
+    },
+    {
+      "name": "Goat Cheese Garlic Black Pepper (150g)",
+      "brand": "Freddy'S",
+      "category": "Cheese, dairy & prepared salads",
+      "subcategory": "Cheese",
+      "source": "https://rdnastore.com/product-category/dairy-eggs-cheese/cheese/",
+      "retail_reference": "EGP 135.00"
+    },
+    {
+      "name": "Vegan Cheese Mozzarella",
+      "brand": "Good Gut Mama",
+      "category": "Cheese, dairy & prepared salads",
+      "subcategory": "Vegan Dairies",
+      "source": "https://rdnastore.com/product-category/vegan/",
+      "retail_reference": "EGP 375.00"
+    },
+    {
+      "name": "Vegan Cheese Cashew Melting",
+      "brand": "Kaju",
+      "category": "Cheese, dairy & prepared salads",
+      "subcategory": "Vegan Dairies",
+      "source": "https://rdnastore.com/product-category/vegan/",
+      "retail_reference": "EGP 360.00"
+    },
+    {
+      "name": "Grana Padano Italian Cheese (200g)",
+      "brand": "Man Italy",
+      "category": "Cheese, dairy & prepared salads",
+      "subcategory": "Cheese",
+      "source": "https://rdnastore.com/product-category/dairy-eggs-cheese/cheese/",
+      "retail_reference": "Price: EGP 250.00 (for 200g)"
+    },
+    {
+      "name": "Parmigiano Reggiano Italian Cheese (200g)",
+      "brand": "Man Italy",
+      "category": "Cheese, dairy & prepared salads",
+      "subcategory": "Cheese",
+      "source": "https://rdnastore.com/product-category/dairy-eggs-cheese/cheese/",
+      "retail_reference": "Price: EGP 320.00 (for 200g)"
+    },
+    {
+      "name": "Provolone Dolce Italian Cheese (200g)",
+      "brand": "Man Italy",
+      "category": "Cheese, dairy & prepared salads",
+      "subcategory": "Cheese",
+      "source": "https://rdnastore.com/product-category/dairy-eggs-cheese/cheese/",
+      "retail_reference": "Price: EGP 220.00 (for 200g)"
+    },
+    {
+      "name": "Provolone Piccante Italian Cheese (200g)",
+      "brand": "Man Italy",
+      "category": "Cheese, dairy & prepared salads",
+      "subcategory": "Cheese",
+      "source": "https://rdnastore.com/product-category/dairy-eggs-cheese/cheese/",
+      "retail_reference": "Price: EGP 220.00 (for 200g)"
+    },
+    {
+      "name": "Eggs white (10 pcs)",
+      "brand": "Omelette",
+      "category": "Cheese, dairy & prepared salads",
+      "subcategory": "Eggs",
+      "source": "https://rdnastore.com/product-category/dairy-eggs-cheese/eggs/",
+      "retail_reference": "EGP 94.00"
+    },
+    {
+      "name": "Cheddar Red Mild (200g)",
+      "brand": "Saluti",
+      "category": "Cheese, dairy & prepared salads",
+      "subcategory": "Cheese",
+      "source": "https://rdnastore.com/product-category/dairy-eggs-cheese/cheese/",
+      "retail_reference": "Price: EGP 104.00 (for 200g)"
+    },
+    {
+      "name": "Cheese Roumy (200g)",
+      "brand": "Saluti",
+      "category": "Cheese, dairy & prepared salads",
+      "subcategory": "Cheese",
+      "source": "https://rdnastore.com/product-category/dairy-eggs-cheese/cheese/",
+      "retail_reference": "Price: EGP 70.00 (for 200g)"
+    },
+    {
+      "name": "Emmental French (200g)",
+      "brand": "Saluti",
+      "category": "Cheese, dairy & prepared salads",
+      "subcategory": "Cheese",
+      "source": "https://rdnastore.com/product-category/dairy-eggs-cheese/cheese/",
+      "retail_reference": "Price: EGP 170.00 (for 200g)"
+    },
+    {
+      "name": "Grana Padano (200g)",
+      "brand": "Saluti",
+      "category": "Cheese, dairy & prepared salads",
+      "subcategory": "Cheese",
+      "source": "https://rdnastore.com/product-category/dairy-eggs-cheese/cheese/",
+      "retail_reference": "Price: EGP 270.00 (for 200g)"
+    },
+    {
+      "name": "Parmigiano Reggiano (200g)",
+      "brand": "Saluti",
+      "category": "Cheese, dairy & prepared salads",
+      "subcategory": "Cheese",
+      "source": "https://rdnastore.com/product-category/dairy-eggs-cheese/cheese/",
+      "retail_reference": "Price: EGP 360.00 (for 200g)"
+    },
+    {
+      "name": "Provolone Dolce (200g)",
+      "brand": "Saluti",
+      "category": "Cheese, dairy & prepared salads",
+      "subcategory": "Cheese",
+      "source": "https://rdnastore.com/product-category/dairy-eggs-cheese/cheese/",
+      "retail_reference": "Price: EGP 210.00 (for 200g)"
+    },
+    {
+      "name": "Cheese Roumi (200g)",
+      "brand": "Sekem",
+      "category": "Cheese, dairy & prepared salads",
+      "subcategory": "Cheese",
+      "source": "https://rdnastore.com/product-category/dairy-eggs-cheese/cheese/",
+      "retail_reference": "Price: EGP 110.00 (for 200g)"
+    },
+    {
+      "name": "Milk Fresh Full Cream (850ml)",
+      "brand": "The Milkman",
+      "category": "Cheese, dairy & prepared salads",
+      "subcategory": "Milk",
+      "source": "https://rdnastore.com/product-category/dairy-eggs-cheese/milk/",
+      "retail_reference": "EGP 85.00"
+    },
+    {
+      "name": "Yogurt Creamy Light (170g)",
+      "brand": "The Milkman",
+      "category": "Cheese, dairy & prepared salads",
+      "subcategory": "Yogurt",
+      "source": "https://rdnastore.com/product-category/dairy-eggs-cheese/yogurt/",
+      "retail_reference": "EGP 21.00"
+    },
+    {
+      "name": "Yogurt Greek Full Cream (170g)",
+      "brand": "The Milkman",
+      "category": "Cheese, dairy & prepared salads",
+      "subcategory": "Yogurt",
+      "source": "https://rdnastore.com/product-category/dairy-eggs-cheese/yogurt/",
+      "retail_reference": "EGP 47.00"
+    },
+    {
+      "name": "Yogurt Greek Mix Berries (170g)",
+      "brand": "The Milkman",
+      "category": "Cheese, dairy & prepared salads",
+      "subcategory": "Yogurt",
+      "source": "https://rdnastore.com/product-category/dairy-eggs-cheese/yogurt/",
+      "retail_reference": "EGP 50.00"
+    },
+    {
+      "name": "Cheese Mozzarella Grattugiato (900g)",
+      "brand": "YASSOO",
+      "category": "Cheese, dairy & prepared salads",
+      "subcategory": "Cheese",
+      "source": "https://rdnastore.com/product-category/dairy-eggs-cheese/cheese/",
+      "retail_reference": "EGP 286.00"
+    },
+    {
+      "name": "Eggs Red (12pcs)",
+      "brand": "Zanaty Farm",
+      "category": "Cheese, dairy & prepared salads",
+      "subcategory": "Eggs",
+      "source": "https://rdnastore.com/product-category/dairy-eggs-cheese/eggs/",
+      "retail_reference": "EGP 105.00"
+    },
+    {
+      "name": "Eggs Red (24pcs)",
+      "brand": "Zanaty Farm",
+      "category": "Cheese, dairy & prepared salads",
+      "subcategory": "Eggs",
+      "source": "https://rdnastore.com/product-category/dairy-eggs-cheese/eggs/",
+      "retail_reference": "EGP 185.00"
+    },
+    {
+      "name": "Eggs White (12pcs)",
+      "brand": "Zanaty Farm",
+      "category": "Cheese, dairy & prepared salads",
+      "subcategory": "Eggs",
+      "source": "https://rdnastore.com/product-category/dairy-eggs-cheese/eggs/",
+      "retail_reference": "EGP 100.00"
+    },
+    {
+      "name": "Eggs White (24pcs)",
+      "brand": "Zanaty Farm",
+      "category": "Cheese, dairy & prepared salads",
+      "subcategory": "Eggs",
+      "source": "https://rdnastore.com/product-category/dairy-eggs-cheese/eggs/",
+      "retail_reference": "EGP 180.00"
+    },
+    {
+      "name": "Eggs White (6pcs)",
+      "brand": "Zanaty Farm",
+      "category": "Cheese, dairy & prepared salads",
+      "subcategory": "Eggs",
+      "source": "https://rdnastore.com/product-category/dairy-eggs-cheese/eggs/",
+      "retail_reference": "EGP 56.00"
+    },
+    {
+      "name": "Kombucha Cinnamon and Rose Petal",
+      "brand": "Good Gut Mama",
+      "category": "Drinks",
+      "subcategory": "Fermented Drinks",
+      "source": "https://rdnastore.com/product-category/gut-health-ferments/?inventory=129",
+      "retail_reference": "EGP 374.00"
+    },
+    {
+      "name": "Kombucha Lemon and Ginger",
+      "brand": "Good Gut Mama",
+      "category": "Drinks",
+      "subcategory": "Fermented Drinks",
+      "source": "https://rdnastore.com/product-category/gut-health-ferments/?inventory=129",
+      "retail_reference": "EGP 374.00"
+    },
+    {
+      "name": "Barley Organic",
+      "brand": "Isis",
+      "category": "Drinks",
+      "subcategory": "Herbal Tea",
+      "source": "https://rdnastore.com/product-category/coffee-teas/",
+      "retail_reference": "EGP 90.00"
+    },
+    {
+      "name": "Chamomile",
+      "brand": "Isis",
+      "category": "Drinks",
+      "subcategory": "Herbal Tea",
+      "source": "https://rdnastore.com/product-category/coffee-teas/",
+      "retail_reference": "EGP 14.00"
+    },
+    {
+      "name": "Cinnamon",
+      "brand": "Isis",
+      "category": "Drinks",
+      "subcategory": "Herbal Tea",
+      "source": "https://rdnastore.com/product-category/coffee-teas/",
+      "retail_reference": "EGP 14.00"
+    },
+    {
+      "name": "Cumin Lemon",
+      "brand": "Isis",
+      "category": "Drinks",
+      "subcategory": "Herbal Tea",
+      "source": "https://rdnastore.com/product-category/coffee-teas/",
+      "retail_reference": "EGP 38.00"
+    },
+    {
+      "name": "Fennel",
+      "brand": "Isis",
+      "category": "Drinks",
+      "subcategory": "Herbal Tea",
+      "source": "https://rdnastore.com/product-category/coffee-teas/",
+      "retail_reference": "EGP 28.00"
+    },
+    {
+      "name": "Fenugreek",
+      "brand": "Isis",
+      "category": "Drinks",
+      "subcategory": "Herbal Tea",
+      "source": "https://rdnastore.com/product-category/coffee-teas/",
+      "retail_reference": "EGP 28.00"
+    },
+    {
+      "name": "Ginger",
+      "brand": "Isis",
+      "category": "Drinks",
+      "subcategory": "Herbal Tea",
+      "source": "https://rdnastore.com/product-category/coffee-teas/",
+      "retail_reference": "EGP 28.00"
+    },
+    {
+      "name": "Ginger Cinnamon",
+      "brand": "Isis",
+      "category": "Drinks",
+      "subcategory": "Herbal Tea",
+      "source": "https://rdnastore.com/product-category/coffee-teas/",
+      "retail_reference": "EGP 14.00"
+    },
+    {
+      "name": "Green Tea Mint",
+      "brand": "Isis",
+      "category": "Drinks",
+      "subcategory": "Herbal Tea",
+      "source": "https://rdnastore.com/product-category/coffee-teas/",
+      "retail_reference": "EGP 17.00"
+    },
+    {
+      "name": "Hibiscus",
+      "brand": "Isis",
+      "category": "Drinks",
+      "subcategory": "Herbal Tea",
+      "source": "https://rdnastore.com/product-category/coffee-teas/",
+      "retail_reference": "EGP 28.00"
+    },
+    {
+      "name": "Peppermint",
+      "brand": "Isis",
+      "category": "Drinks",
+      "subcategory": "Herbal Tea",
+      "source": "https://rdnastore.com/product-category/coffee-teas/",
+      "retail_reference": "EGP 14.00"
+    },
+    {
+      "name": "Pomegranate",
+      "brand": "Isis",
+      "category": "Drinks",
+      "subcategory": "Herbal Tea",
+      "source": "https://rdnastore.com/product-category/coffee-teas/",
+      "retail_reference": "EGP 28.00"
+    },
+    {
+      "name": "Tilia",
+      "brand": "Isis",
+      "category": "Drinks",
+      "subcategory": "Herbal Tea",
+      "source": "https://rdnastore.com/product-category/coffee-teas/",
+      "retail_reference": "EGP 14.00"
+    },
+    {
+      "name": "Water Bottle",
+      "brand": "Isis",
+      "category": "Drinks",
+      "subcategory": "Water",
+      "source": "https://rdnastore.com/product-category/beverages/",
+      "retail_reference": "EGP 7.00"
+    },
+    {
+      "name": "Water Gallon",
+      "brand": "Isis",
+      "category": "Drinks",
+      "subcategory": "Water",
+      "source": "https://rdnastore.com/product-category/beverages/",
+      "retail_reference": "EGP 105.00"
+    },
+    {
+      "name": "Coffee Colombia",
+      "brand": "Katzala",
+      "category": "Drinks",
+      "subcategory": "Coffee",
+      "source": "https://rdnastore.com/product-category/coffee-teas/coffee/",
+      "retail_reference": "EGP 363.00"
+    },
+    {
+      "name": "Coffee Decaf Powder",
+      "brand": "Katzala",
+      "category": "Drinks",
+      "subcategory": "Coffee",
+      "source": "https://rdnastore.com/product-category/coffee-teas/coffee/",
+      "retail_reference": "EGP 413.00"
+    },
+    {
+      "name": "Coffee Espresso Blend",
+      "brand": "Katzala",
+      "category": "Drinks",
+      "subcategory": "Coffee",
+      "source": "https://rdnastore.com/product-category/coffee-teas/coffee/",
+      "retail_reference": "EGP 355.00"
+    },
+    {
+      "name": "Coffee Espresso Blend Whole Bean",
+      "brand": "Katzala",
+      "category": "Drinks",
+      "subcategory": "Coffee",
+      "source": "https://rdnastore.com/product-category/coffee-teas/coffee/",
+      "retail_reference": "EGP 1,194.00"
+    },
+    {
+      "name": "Coffee Honduras",
+      "brand": "Katzala",
+      "category": "Drinks",
+      "subcategory": "Coffee",
+      "source": "https://rdnastore.com/product-category/coffee-teas/coffee/",
+      "retail_reference": "EGP 363.00"
+    },
+    {
+      "name": "Coffee House Blend",
+      "brand": "Katzala",
+      "category": "Drinks",
+      "subcategory": "Coffee",
+      "source": "https://rdnastore.com/product-category/coffee-teas/coffee/",
+      "retail_reference": "EGP 286.00"
+    },
+    {
+      "name": "Coffee Intenso Blend",
+      "brand": "Katzala",
+      "category": "Drinks",
+      "subcategory": "Coffee",
+      "source": "https://rdnastore.com/product-category/coffee-teas/coffee/",
+      "retail_reference": "EGP 317.00"
+    },
+    {
+      "name": "Coffee Intenso Blend Whole Bean",
+      "brand": "Katzala",
+      "category": "Drinks",
+      "subcategory": "Coffee",
+      "source": "https://rdnastore.com/product-category/coffee-teas/coffee/",
+      "retail_reference": "EGP 1,122.00"
+    },
+    {
+      "name": "Coffee Niccargua",
+      "brand": "Katzala",
+      "category": "Drinks",
+      "subcategory": "Coffee",
+      "source": "https://rdnastore.com/product-category/coffee-teas/coffee/",
+      "retail_reference": "EGP 363.00"
+    },
+    {
+      "name": "Coffee Uganda",
+      "brand": "Katzala",
+      "category": "Drinks",
+      "subcategory": "Coffee",
+      "source": "https://rdnastore.com/product-category/coffee-teas/coffee/",
+      "retail_reference": "EGP 336.00"
+    },
+    {
+      "name": "Turkish Coffee Cardamom",
+      "brand": "Katzala",
+      "category": "Drinks",
+      "subcategory": "Coffee",
+      "source": "https://rdnastore.com/product-category/coffee-teas/coffee/",
+      "retail_reference": "EGP 265.00"
+    },
+    {
+      "name": "Turkish Coffee Plain",
+      "brand": "Katzala",
+      "category": "Drinks",
+      "subcategory": "Coffee",
+      "source": "https://rdnastore.com/product-category/coffee-teas/coffee/",
+      "retail_reference": "EGP 235.00"
+    },
+    {
+      "name": "Coconut Kefir",
+      "brand": "Kombucha Egypt",
+      "category": "Drinks",
+      "subcategory": "Fermented Drinks",
+      "source": "https://rdnastore.com/product-category/gut-health-ferments/?inventory=129",
+      "retail_reference": "EGP 165.00"
+    },
+    {
+      "name": "Kefir",
+      "brand": "Kombucha Egypt",
+      "category": "Drinks",
+      "subcategory": "Fermented Drinks",
+      "source": "https://rdnastore.com/product-category/gut-health-ferments/?inventory=129",
+      "retail_reference": "EGP 145.00"
+    },
+    {
+      "name": "Kombucha Black Cherry",
+      "brand": "Kombucha Egypt",
+      "category": "Drinks",
+      "subcategory": "Fermented Drinks",
+      "source": "https://rdnastore.com/product-category/gut-health-ferments/?inventory=129",
+      "retail_reference": "EGP 135.00"
+    },
+    {
+      "name": "Kombucha Blueberry",
+      "brand": "Kombucha Egypt",
+      "category": "Drinks",
+      "subcategory": "Fermented Drinks",
+      "source": "https://rdnastore.com/product-category/gut-health-ferments/?inventory=129",
+      "retail_reference": "EGP 135.00"
+    },
+    {
+      "name": "Kombucha Hibiscus Rose",
+      "brand": "Kombucha Egypt",
+      "category": "Drinks",
+      "subcategory": "Fermented Drinks",
+      "source": "https://rdnastore.com/product-category/gut-health-ferments/?inventory=129",
+      "retail_reference": "EGP 135.00"
+    },
+    {
+      "name": "Kombucha Mango",
+      "brand": "Kombucha Egypt",
+      "category": "Drinks",
+      "subcategory": "Fermented Drinks",
+      "source": "https://rdnastore.com/product-category/gut-health-ferments/?inventory=129",
+      "retail_reference": "EGP 135.00"
+    },
+    {
+      "name": "Kombucha Pineapple Ginger",
+      "brand": "Kombucha Egypt",
+      "category": "Drinks",
+      "subcategory": "Fermented Drinks",
+      "source": "https://rdnastore.com/product-category/gut-health-ferments/?inventory=129",
+      "retail_reference": "EGP 135.00"
+    },
+    {
+      "name": "Matcha Powder",
+      "brand": "Kombucha Egypt",
+      "category": "Drinks",
+      "subcategory": "Herbal Tea",
+      "source": "https://rdnastore.com/product-category/coffee-teas/",
+      "retail_reference": "EGP 520.00"
+    },
+    {
+      "name": "Water Sparkling Light (240ml)",
+      "brand": "Puvana",
+      "category": "Drinks",
+      "subcategory": "Water",
+      "source": "https://rdnastore.com/product-category/beverages/",
+      "retail_reference": "EGP 30.00"
+    },
+    {
+      "name": "Coffee Decaf Pour-Over",
+      "brand": "Slvr Skn",
+      "category": "Drinks",
+      "subcategory": "Coffee",
+      "source": "https://rdnastore.com/product-category/coffee-teas/coffee/",
+      "retail_reference": "EGP 160.00"
+    },
+    {
+      "name": "Turkish Coffee Light Cardamom",
+      "brand": "Slvr Skn",
+      "category": "Drinks",
+      "subcategory": "Coffee",
+      "source": "https://rdnastore.com/product-category/coffee-teas/coffee/",
+      "retail_reference": "EGP 290.00"
+    },
+    {
+      "name": "Turkish Coffee Light Plain",
+      "brand": "Slvr Skn",
+      "category": "Drinks",
+      "subcategory": "Coffee",
+      "source": "https://rdnastore.com/product-category/coffee-teas/coffee/",
+      "retail_reference": "EGP 270.00"
+    },
+    {
+      "name": "Turkish Coffee Medium Plain",
+      "brand": "Slvr Skn",
+      "category": "Drinks",
+      "subcategory": "Coffee",
+      "source": "https://rdnastore.com/product-category/coffee-teas/coffee/",
+      "retail_reference": "EGP 270.00"
+    },
+    {
+      "name": "Milk Fresh Iced Coffee (250ml)",
+      "brand": "The Milkman",
+      "category": "Drinks",
+      "subcategory": "Yogurt",
+      "source": "https://rdnastore.com/product-category/dairy-eggs-cheese/yogurt/",
+      "retail_reference": "EGP 48.00"
+    },
+    {
+      "name": "Calamari Rings (350g)",
+      "brand": "Pescado",
+      "category": "Fish",
+      "subcategory": "Meat",
+      "source": "https://rdnastore.com/product-category/meat-poultry-seafood/seafood/",
+      "retail_reference": "EGP 170.00"
+    },
+    {
+      "name": "Fillet Nile Perch (400g)",
+      "brand": "Pescado",
+      "category": "Fish",
+      "subcategory": "Meat",
+      "source": "https://rdnastore.com/product-category/meat-poultry-seafood/seafood/",
+      "retail_reference": "EGP 250.00"
+    },
+    {
+      "name": "Fillet Tilapia (400g)",
+      "brand": "Pescado",
+      "category": "Fish",
+      "subcategory": "Meat",
+      "source": "https://rdnastore.com/product-category/meat-poultry-seafood/seafood/",
+      "retail_reference": "EGP 180.00"
+    },
+    {
+      "name": "Salmon Fillet (200g)",
+      "brand": "Pescado",
+      "category": "Fish",
+      "subcategory": "Meat",
+      "source": "https://rdnastore.com/product-category/meat-poultry-seafood/seafood/",
+      "retail_reference": "EGP 380.00"
+    },
+    {
+      "name": "Salmon Smoked (100g)",
+      "brand": "Pescado",
+      "category": "Fish",
+      "subcategory": "Meat",
+      "source": "https://rdnastore.com/product-category/meat-poultry-seafood/seafood/",
+      "retail_reference": "EGP 230.00"
+    },
+    {
+      "name": "Shrimp Large 16-20 (350g)",
+      "brand": "Pescado",
+      "category": "Fish",
+      "subcategory": "Meat",
+      "source": "https://rdnastore.com/product-category/meat-poultry-seafood/seafood/",
+      "retail_reference": "EGP 700.00"
+    },
+    {
+      "name": "Shrimp Small 50-65 (350g)",
+      "brand": "Pescado",
+      "category": "Fish",
+      "subcategory": "Meat",
+      "source": "https://rdnastore.com/product-category/meat-poultry-seafood/seafood/",
+      "retail_reference": "EGP 600.00"
+    },
+    {
+      "name": "Basa Fillet White",
+      "brand": "Soly",
+      "category": "Fish",
+      "subcategory": "Meat",
+      "source": "https://rdnastore.com/product-category/meat-poultry-seafood/seafood/",
+      "retail_reference": "EGP 320.00 g"
+    },
+    {
+      "name": "Salmon Portion Fillet Premium Cut",
+      "brand": "Soly",
+      "category": "Fish",
+      "subcategory": "Meat",
+      "source": "https://rdnastore.com/product-category/meat-poultry-seafood/seafood/",
+      "retail_reference": "EGP 690.00"
+    },
+    {
+      "name": "Salmon Smoked",
+      "brand": "Soly",
+      "category": "Fish",
+      "subcategory": "Meat",
+      "source": "https://rdnastore.com/product-category/meat-poultry-seafood/seafood/",
+      "retail_reference": "EGP 269.00"
+    },
+    {
+      "name": "Seafood Mix",
+      "brand": "Soly",
+      "category": "Fish",
+      "subcategory": "Meat",
+      "source": "https://rdnastore.com/product-category/meat-poultry-seafood/seafood/",
+      "retail_reference": "EGP 320.00"
+    },
+    {
+      "name": "Shrimps 20-40 Extra Large PD",
+      "brand": "Soly",
+      "category": "Fish",
+      "subcategory": "Meat",
+      "source": "https://rdnastore.com/product-category/meat-poultry-seafood/seafood/",
+      "retail_reference": "EGP 1,260.00"
+    },
+    {
+      "name": "Shrimps Ready to Eat16-20 Extra Large PDTO",
+      "brand": "Soly",
+      "category": "Fish",
+      "subcategory": "Meat",
+      "source": "https://rdnastore.com/product-category/meat-poultry-seafood/seafood/",
+      "retail_reference": "EGP 999.00"
+    },
+    {
+      "name": "Cherry Tomatoes (250g)",
+      "brand": "Ennabta Farms",
+      "category": "Fresh produce",
+      "subcategory": "Vegetables",
+      "source": "https://rdnastore.com/product-category/vegetables-fruits/vegetables/",
+      "retail_reference": "EGP 60.00"
+    },
+    {
+      "name": "Apple Golden (500g)",
+      "brand": "Fresh 365",
+      "category": "Fresh produce",
+      "subcategory": "Fruits",
+      "source": "https://rdnastore.com/product-category/vegetables-fruits/",
+      "retail_reference": "Price: EGP 75.00 (for 500g)"
+    },
+    {
+      "name": "Apricot (500g)",
+      "brand": "Fresh 365",
+      "category": "Fresh produce",
+      "subcategory": "Fruits",
+      "source": "https://rdnastore.com/product-category/vegetables-fruits/",
+      "retail_reference": "Price: EGP 97.50 (for 500g)"
+    },
+    {
+      "name": "Peaches (500g)",
+      "brand": "Fresh 365",
+      "category": "Fresh produce",
+      "subcategory": "Fruits",
+      "source": "https://rdnastore.com/product-category/vegetables-fruits/",
+      "retail_reference": "Price: EGP 80.00 (for 500g)"
+    },
+    {
+      "name": "Potatoes Fried (1kg)",
+      "brand": "Fresh 365",
+      "category": "Fresh produce",
+      "subcategory": "Vegetables",
+      "source": "https://rdnastore.com/product-category/vegetables-fruits/vegetables/",
+      "retail_reference": "Price: EGP 40.00 (for 1000g)"
+    },
+    {
+      "name": "Apricots (500g)",
+      "brand": "Nefertoot",
+      "category": "Fresh produce",
+      "subcategory": "Fruits",
+      "source": "https://rdnastore.com/product-category/vegetables-fruits/",
+      "retail_reference": "EGP 185.00"
+    },
+    {
+      "name": "Blueberry (125g)",
+      "brand": "Nefertoot",
+      "category": "Fresh produce",
+      "subcategory": "Fruits",
+      "source": "https://rdnastore.com/product-category/vegetables-fruits/",
+      "retail_reference": "EGP 275.00"
+    },
+    {
+      "name": "Peaches (500g)",
+      "brand": "Nefertoot",
+      "category": "Fresh produce",
+      "subcategory": "Fruits",
+      "source": "https://rdnastore.com/product-category/vegetables-fruits/",
+      "retail_reference": "EGP 125.00"
+    },
+    {
+      "name": "Plums (500g)",
+      "brand": "Nefertoot",
+      "category": "Fresh produce",
+      "subcategory": "Fruits",
+      "source": "https://rdnastore.com/product-category/vegetables-fruits/",
+      "retail_reference": "EGP 120.00"
+    },
+    {
+      "name": "Mushroom King Oyster Fresh (200g)",
+      "brand": "Raw Urth",
+      "category": "Fresh produce",
+      "subcategory": "Vegetables",
+      "source": "https://rdnastore.com/product-category/vegetables-fruits/",
+      "retail_reference": "EGP 200.00"
+    },
+    {
+      "name": "Baby Potatoes Organic (500g)",
+      "brand": "Sara's Organic",
+      "category": "Fresh produce",
+      "subcategory": "Vegetables",
+      "source": "https://rdnastore.com/product-category/vegetables-fruits/vegetables/",
+      "retail_reference": "EGP 37.00"
+    },
+    {
+      "name": "Cucumbers Organic (500g)",
+      "brand": "Sara's Organic",
+      "category": "Fresh produce",
+      "subcategory": "Vegetables",
+      "source": "https://rdnastore.com/product-category/vegetables-fruits/vegetables/",
+      "retail_reference": "EGP 42.00"
+    },
+    {
+      "name": "Onions Red Organic (500g)",
+      "brand": "Sara's Organic",
+      "category": "Fresh produce",
+      "subcategory": "Vegetables",
+      "source": "https://rdnastore.com/product-category/vegetables-fruits/vegetables/",
+      "retail_reference": "EGP 50.00"
+    },
+    {
+      "name": "Potatoes Organic (1kg)",
+      "brand": "Sara's Organic",
+      "category": "Fresh produce",
+      "subcategory": "Vegetables",
+      "source": "https://rdnastore.com/product-category/vegetables-fruits/vegetables/",
+      "retail_reference": "EGP 68.00"
+    },
+    {
+      "name": "Tomatoes Organic (500g)",
+      "brand": "Sara's Organic",
+      "category": "Fresh produce",
+      "subcategory": "Vegetables",
+      "source": "https://rdnastore.com/product-category/vegetables-fruits/vegetables/",
+      "retail_reference": "EGP 58.00"
+    },
+    {
+      "name": "Carrots Organic (1kg)",
+      "brand": "Sekem",
+      "category": "Fresh produce",
+      "subcategory": "Vegetables",
+      "source": "https://rdnastore.com/product-category/vegetables-fruits/vegetables/",
+      "retail_reference": "Price: EGP 39.00 (for 1000g)"
+    },
+    {
+      "name": "Chili Peppers Green Organic (100g)",
+      "brand": "Sekem",
+      "category": "Fresh produce",
+      "subcategory": "Vegetables",
+      "source": "https://rdnastore.com/product-category/vegetables-fruits/vegetables/",
+      "retail_reference": "Price: EGP 20.00 (for 250g)"
+    },
+    {
+      "name": "Cucumber Organic (1kg)",
+      "brand": "Sekem",
+      "category": "Fresh produce",
+      "subcategory": "Vegetables",
+      "source": "https://rdnastore.com/product-category/vegetables-fruits/vegetables/",
+      "retail_reference": "Price: EGP 51.00 (for 1000g)"
+    },
+    {
+      "name": "Eggplants Organic (1kg)",
+      "brand": "Sekem",
+      "category": "Fresh produce",
+      "subcategory": "Vegetables",
+      "source": "https://rdnastore.com/product-category/vegetables-fruits/vegetables/",
+      "retail_reference": "Price: EGP 60.00 (for 1000g)"
+    },
+    {
+      "name": "Fresh Molokheya (100g)",
+      "brand": "Sekem",
+      "category": "Fresh produce",
+      "subcategory": "Vegetables",
+      "source": "https://rdnastore.com/product-category/vegetables-fruits/",
+      "retail_reference": "Price: EGP 6.00 (for 100g)"
+    },
+    {
+      "name": "Lemon Baladi Organic (250g)",
+      "brand": "Sekem",
+      "category": "Fresh produce",
+      "subcategory": "Fruits",
+      "source": "https://rdnastore.com/product-category/vegetables-fruits/",
+      "retail_reference": "Price: EGP 22.50 (for 250g)"
+    },
+    {
+      "name": "Okra Organic (500g)",
+      "brand": "Sekem",
+      "category": "Fresh produce",
+      "subcategory": "Vegetables",
+      "source": "https://rdnastore.com/product-category/vegetables-fruits/vegetables/",
+      "retail_reference": "Price: EGP 50.00 (for 500g)"
+    },
+    {
+      "name": "Onion Red Organic (1kg)",
+      "brand": "Sekem",
+      "category": "Fresh produce",
+      "subcategory": "Vegetables",
+      "source": "https://rdnastore.com/product-category/vegetables-fruits/vegetables/",
+      "retail_reference": "Price: EGP 54.00 (for 1000g)"
+    },
+    {
+      "name": "Peppers Green Organic (500g)",
+      "brand": "Sekem",
+      "category": "Fresh produce",
+      "subcategory": "Vegetables",
+      "source": "https://rdnastore.com/product-category/vegetables-fruits/vegetables/",
+      "retail_reference": "Price: EGP 30.00 (for 500g)"
+    },
+    {
+      "name": "Peppers Red Organic (500g)",
+      "brand": "Sekem",
+      "category": "Fresh produce",
+      "subcategory": "Vegetables",
+      "source": "https://rdnastore.com/product-category/vegetables-fruits/vegetables/",
+      "retail_reference": "Price: EGP 44.00 (for 500g)"
+    },
+    {
+      "name": "Peppers Yellow Organic (500g)",
+      "brand": "Sekem",
+      "category": "Fresh produce",
+      "subcategory": "Vegetables",
+      "source": "https://rdnastore.com/product-category/vegetables-fruits/vegetables/",
+      "retail_reference": "Price: EGP 44.00 (for 500g)"
+    },
+    {
+      "name": "Sweet Potato Organic (1kg)",
+      "brand": "Sekem",
+      "category": "Fresh produce",
+      "subcategory": "Vegetables",
+      "source": "https://rdnastore.com/product-category/vegetables-fruits/vegetables/",
+      "retail_reference": "Price: EGP 42.00 (for 1000g)"
+    },
+    {
+      "name": "Tomato Organic (1kg)",
+      "brand": "Sekem",
+      "category": "Fresh produce",
+      "subcategory": "Vegetables",
+      "source": "https://rdnastore.com/product-category/vegetables-fruits/vegetables/",
+      "retail_reference": "Price: EGP 45.00 (for 1000g)"
+    },
+    {
+      "name": "Zucchini Organic (1kg)",
+      "brand": "Sekem",
+      "category": "Fresh produce",
+      "subcategory": "Vegetables",
+      "source": "https://rdnastore.com/product-category/vegetables-fruits/vegetables/",
+      "retail_reference": "Price: EGP 66.00 (for 1000g)"
+    },
+    {
+      "name": "Apples Gala (1kg)",
+      "brand": "Sharbatly",
+      "category": "Fresh produce",
+      "subcategory": "Fruits",
+      "source": "https://rdnastore.com/product-category/vegetables-fruits/",
+      "retail_reference": "Price: EGP 130.00 (for 1000g)"
+    },
+    {
+      "name": "Apples Green (1kg)",
+      "brand": "Sharbatly",
+      "category": "Fresh produce",
+      "subcategory": "Fruits",
+      "source": "https://rdnastore.com/product-category/vegetables-fruits/",
+      "retail_reference": "Price: EGP 92.50 (for 500g)"
+    },
+    {
+      "name": "Orange Baladi Juice (1kg)",
+      "brand": "Sharbatly",
+      "category": "Fresh produce",
+      "subcategory": "Fruits",
+      "source": "https://rdnastore.com/product-category/vegetables-fruits/",
+      "retail_reference": "Price: EGP 40.00 (for 1000g)"
+    },
+    {
+      "name": "Triangoli with Porcini Mushroom Truffle (250g)",
+      "brand": "Bertagni",
+      "category": "Frozen",
+      "subcategory": "Frozen",
+      "source": "https://rdnastore.com/product-category/ready-food/",
+      "retail_reference": "EGP 295.00"
+    },
+    {
+      "name": "Blueberry Frozen (500g)",
+      "brand": "Emilia",
+      "category": "Frozen",
+      "subcategory": "Fruits",
+      "source": "https://rdnastore.com/product-category/vegetables-fruits/",
+      "retail_reference": "EGP 396.00"
+    },
+    {
+      "name": "Pizza Buffala Italian Frozen",
+      "brand": "Emilia",
+      "category": "Frozen",
+      "subcategory": "Frozen",
+      "source": "https://rdnastore.com/product-category/ready-food/",
+      "retail_reference": "EGP 200.00"
+    },
+    {
+      "name": "Pizza Chicken BBQ",
+      "brand": "Emilia",
+      "category": "Frozen",
+      "subcategory": "Frozen",
+      "source": "https://rdnastore.com/product-category/ready-food/",
+      "retail_reference": "EGP 195.00"
+    },
+    {
+      "name": "Pizza Chicken Ranch",
+      "brand": "Emilia",
+      "category": "Frozen",
+      "subcategory": "Frozen",
+      "source": "https://rdnastore.com/product-category/ready-food/",
+      "retail_reference": "EGP 205.00"
+    },
+    {
+      "name": "Pizza Margherita Italian Frozen",
+      "brand": "Emilia",
+      "category": "Frozen",
+      "subcategory": "Frozen",
+      "source": "https://rdnastore.com/product-category/ready-food/",
+      "retail_reference": "EGP 160.00"
+    },
+    {
+      "name": "Pizza Pepperoni Italian Frozen",
+      "brand": "Emilia",
+      "category": "Frozen",
+      "subcategory": "Frozen",
+      "source": "https://rdnastore.com/product-category/ready-food/",
+      "retail_reference": "EGP 200.00"
+    },
+    {
+      "name": "Pizza Sriracha Sausage Italian Frozen",
+      "brand": "Emilia",
+      "category": "Frozen",
+      "subcategory": "Frozen",
+      "source": "https://rdnastore.com/product-category/ready-food/",
+      "retail_reference": "EGP 200.00"
+    },
+    {
+      "name": "Hotdogs Beef Cheese",
+      "brand": "Delimore",
+      "category": "Meat, game & poultry",
+      "subcategory": "Beef",
+      "source": "https://rdnastore.com/product-category/cold-cuts-deli/",
+      "retail_reference": "EGP 330.00"
+    },
+    {
+      "name": "Hotdogs Turkey",
+      "brand": "Delimore",
+      "category": "Meat, game & poultry",
+      "subcategory": "Sausages",
+      "source": "https://rdnastore.com/product-category/cold-cuts-deli/",
+      "retail_reference": "EGP 320.00"
+    },
+    {
+      "name": "Roast Beef Smoked",
+      "brand": "Delimore",
+      "category": "Meat, game & poultry",
+      "subcategory": "Beef",
+      "source": "https://rdnastore.com/product-category/cold-cuts-deli/",
+      "retail_reference": "EGP 340.00"
+    },
+    {
+      "name": "Brisket Smoked",
+      "brand": "Smoke House",
+      "category": "Meat, game & poultry",
+      "subcategory": "Beef",
+      "source": "https://rdnastore.com/product-category/cold-cuts-deli/",
+      "retail_reference": "EGP 267.00"
+    },
+    {
+      "name": "Roast Beef Smoked",
+      "brand": "Smoke House",
+      "category": "Meat, game & poultry",
+      "subcategory": "Beef",
+      "source": "https://rdnastore.com/product-category/cold-cuts-deli/",
+      "retail_reference": "EGP 256.00"
+    },
+    {
+      "name": "Turkey Breast Smoked",
+      "brand": "Smoke House",
+      "category": "Meat, game & poultry",
+      "subcategory": "Poultry",
+      "source": "https://rdnastore.com/product-category/cold-cuts-deli/",
+      "retail_reference": "EGP 225.00"
+    },
+    {
+      "name": "Dish Soap (500ml)",
+      "brand": "Betna",
+      "category": "Non-food",
+      "subcategory": "Eco Cleaning",
+      "source": "https://rdnastore.com/product-category/home-garden/",
+      "retail_reference": "EGP 130.00"
+    },
+    {
+      "name": "Glass Cleaner (500ml)",
+      "brand": "Betna",
+      "category": "Non-food",
+      "subcategory": "Eco Cleaning",
+      "source": "https://rdnastore.com/product-category/home-garden/",
+      "retail_reference": "EGP 130.00"
+    },
+    {
+      "name": "Kitchen Cleaner (500ml)",
+      "brand": "Betna",
+      "category": "Non-food",
+      "subcategory": "Eco Cleaning",
+      "source": "https://rdnastore.com/product-category/home-garden/",
+      "retail_reference": "EGP 150.00"
+    },
+    {
+      "name": "Laundry Gel (1L)",
+      "brand": "Betna",
+      "category": "Non-food",
+      "subcategory": "Eco Cleaning",
+      "source": "https://rdnastore.com/product-category/home-garden/",
+      "retail_reference": "EGP 245.00"
+    },
+    {
+      "name": "Liquid Soap PH9 Lavender (500ml)",
+      "brand": "Betna",
+      "category": "Non-food",
+      "subcategory": "Eco Cleaning",
+      "source": "https://rdnastore.com/product-category/home-garden/",
+      "retail_reference": "EGP 295.00"
+    },
+    {
+      "name": "Liquid Soap PH9 Lemongrass (500ml)",
+      "brand": "Betna",
+      "category": "Non-food",
+      "subcategory": "Eco Cleaning",
+      "source": "https://rdnastore.com/product-category/home-garden/",
+      "retail_reference": "EGP 295.00"
+    },
+    {
+      "name": "Liquid Soap PH9 Tea Tree (500ml)",
+      "brand": "Betna",
+      "category": "Non-food",
+      "subcategory": "Eco Cleaning",
+      "source": "https://rdnastore.com/product-category/home-garden/",
+      "retail_reference": "EGP 295.00"
+    },
+    {
+      "name": "Liquid Soap PH9 Unscented (500ml)",
+      "brand": "Betna",
+      "category": "Non-food",
+      "subcategory": "Eco Cleaning",
+      "source": "https://rdnastore.com/product-category/home-garden/",
+      "retail_reference": "EGP 245.00"
+    },
+    {
+      "name": "Liquid Soap Lemongrass",
+      "brand": "Black Lotus",
+      "category": "Non-food",
+      "subcategory": "Soaps & Sanitizers",
+      "source": "https://rdnastore.com/product-category/home-garden/",
+      "retail_reference": "EGP 518.00"
+    },
+    {
+      "name": "Liquid Soap Pure Castile",
+      "brand": "Black Lotus",
+      "category": "Non-food",
+      "subcategory": "Soaps & Sanitizers",
+      "source": "https://rdnastore.com/product-category/home-garden/",
+      "retail_reference": "EGP 138.00"
+    },
+    {
+      "name": "Liquid Soap Tea Tree",
+      "brand": "Black Lotus",
+      "category": "Non-food",
+      "subcategory": "Soaps & Sanitizers",
+      "source": "https://rdnastore.com/product-category/home-garden/",
+      "retail_reference": "EGP 184.00"
+    },
+    {
+      "name": "Bathroom Cleaner",
+      "brand": "Well World",
+      "category": "Non-food",
+      "subcategory": "Eco Cleaning",
+      "source": "https://rdnastore.com/product-category/home-garden/",
+      "retail_reference": "EGP 190.00"
+    },
+    {
+      "name": "Carpet Deodorizer",
+      "brand": "Well World",
+      "category": "Non-food",
+      "subcategory": "Eco Cleaning",
+      "source": "https://rdnastore.com/product-category/home-garden/",
+      "retail_reference": "EGP 125.00"
+    },
+    {
+      "name": "Dish Soap",
+      "brand": "Well World",
+      "category": "Non-food",
+      "subcategory": "Eco Cleaning",
+      "source": "https://rdnastore.com/product-category/home-garden/",
+      "retail_reference": "EGP 250.00"
+    },
+    {
+      "name": "Glass Cleaner",
+      "brand": "Well World",
+      "category": "Non-food",
+      "subcategory": "Eco Cleaning",
+      "source": "https://rdnastore.com/product-category/home-garden/",
+      "retail_reference": "EGP 190.00"
+    },
+    {
+      "name": "Kitchen Degreaser",
+      "brand": "Well World",
+      "category": "Non-food",
+      "subcategory": "Eco Cleaning",
+      "source": "https://rdnastore.com/product-category/home-garden/",
+      "retail_reference": "EGP 190.00"
+    },
+    {
+      "name": "Laundry Detergent",
+      "brand": "Well World",
+      "category": "Non-food",
+      "subcategory": "Eco Cleaning",
+      "source": "https://rdnastore.com/product-category/home-garden/",
+      "retail_reference": "EGP 399.00"
+    },
+    {
+      "name": "Multi Purpose Cleaner",
+      "brand": "Well World",
+      "category": "Non-food",
+      "subcategory": "Eco Cleaning",
+      "source": "https://rdnastore.com/product-category/home-garden/",
+      "retail_reference": "EGP 190.00"
+    },
+    {
+      "name": "Stain Stick",
+      "brand": "Well World",
+      "category": "Non-food",
+      "subcategory": "Eco Cleaning",
+      "source": "https://rdnastore.com/product-category/home-garden/",
+      "retail_reference": "EGP 300.00"
+    },
+    {
+      "name": "Toiled Bombs",
+      "brand": "Well World",
+      "category": "Non-food",
+      "subcategory": "Eco Cleaning",
+      "source": "https://rdnastore.com/product-category/home-garden/",
+      "retail_reference": "EGP 310.00"
+    },
+    {
+      "name": "Honey Citrus Blossom Squeeze",
+      "brand": "Bare Honey",
+      "category": "Pantry",
+      "subcategory": "Honey & Sweeteners",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/",
+      "retail_reference": "EGP 170.00"
+    },
+    {
+      "name": "Honey Citrus with Honeycomb",
+      "brand": "Bare Honey",
+      "category": "Pantry",
+      "subcategory": "Honey & Sweeteners",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/",
+      "retail_reference": "EGP 300.00"
+    },
+    {
+      "name": "Honey Clover Blossom",
+      "brand": "Bare Honey",
+      "category": "Pantry",
+      "subcategory": "Honey & Sweeteners",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/",
+      "retail_reference": "EGP 140.00"
+    },
+    {
+      "name": "Honey Clover Blossom Squeeze",
+      "brand": "Bare Honey",
+      "category": "Pantry",
+      "subcategory": "Honey & Sweeteners",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/",
+      "retail_reference": "EGP 150.00"
+    },
+    {
+      "name": "Honey Clover with Honeycomb",
+      "brand": "Bare Honey",
+      "category": "Pantry",
+      "subcategory": "Honey & Sweeteners",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/",
+      "retail_reference": "EGP 260.00"
+    },
+    {
+      "name": "Jerusalem Sage",
+      "brand": "Bedo Kitchen",
+      "category": "Pantry",
+      "subcategory": "Herbs, Spices & Seasoning",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/",
+      "retail_reference": "EGP 50.00"
+    },
+    {
+      "name": "Olive Oil Extra Virgin",
+      "brand": "Bedo Kitchen",
+      "category": "Pantry",
+      "subcategory": "Olive Oil",
+      "source": "https://rdnastore.com/product-category/oils-fats/olive-oil/",
+      "retail_reference": "EGP 650.00"
+    },
+    {
+      "name": "Ghee Buffalo",
+      "brand": "Bostan Setelhosn",
+      "category": "Pantry",
+      "subcategory": "Ghee & Tallow",
+      "source": "https://rdnastore.com/product-category/oils-fats/ghee-tallow/",
+      "retail_reference": "EGP 205.00"
+    },
+    {
+      "name": "Ghee Cow",
+      "brand": "Bostan Setelhosn",
+      "category": "Pantry",
+      "subcategory": "Ghee & Tallow",
+      "source": "https://rdnastore.com/product-category/oils-fats/ghee-tallow/",
+      "retail_reference": "EGP 430.00"
+    },
+    {
+      "name": "Olive Oil Classic",
+      "brand": "Bostan Setelhosn",
+      "category": "Pantry",
+      "subcategory": "Olive Oil",
+      "source": "https://rdnastore.com/product-category/oils-fats/olive-oil/",
+      "retail_reference": "EGP 440.00"
+    },
+    {
+      "name": "Tahini",
+      "brand": "Bostan Setelhosn",
+      "category": "Pantry",
+      "subcategory": "Sauces",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/sauces/",
+      "retail_reference": "EGP 110.00"
+    },
+    {
+      "name": "Tapenade",
+      "brand": "Bostan Setelhosn",
+      "category": "Pantry",
+      "subcategory": "Pickled & Fermented",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/pickled-fermented/",
+      "retail_reference": "EGP 125.00"
+    },
+    {
+      "name": "Tapenade with Thyme",
+      "brand": "Bostan Setelhosn",
+      "category": "Pantry",
+      "subcategory": "Pickled & Fermented",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/pickled-fermented/",
+      "retail_reference": "EGP 140.00"
+    },
+    {
+      "name": "Bar Goldenberry Cranberry Cashew",
+      "brand": "Bruz",
+      "category": "Pantry",
+      "subcategory": "Power Bars",
+      "source": "https://rdnastore.com/product-category/snacks-sweets/",
+      "retail_reference": "EGP 43.00"
+    },
+    {
+      "name": "Bar Peanut Butter Sesame",
+      "brand": "Bruz",
+      "category": "Pantry",
+      "subcategory": "Power Bars",
+      "source": "https://rdnastore.com/product-category/snacks-sweets/",
+      "retail_reference": "EGP 43.00"
+    },
+    {
+      "name": "Bar Tahini Coffee Chocolate",
+      "brand": "Bruz",
+      "category": "Pantry",
+      "subcategory": "Power Bars",
+      "source": "https://rdnastore.com/product-category/snacks-sweets/",
+      "retail_reference": "EGP 43.00"
+    },
+    {
+      "name": "Granola Coconut And Flaxseed",
+      "brand": "Bruz",
+      "category": "Pantry",
+      "subcategory": "Breakfast Cereals",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/breakfast-cereals/",
+      "retail_reference": "EGP 175.00"
+    },
+    {
+      "name": "Granola Cranberry And Chocolate",
+      "brand": "Bruz",
+      "category": "Pantry",
+      "subcategory": "Breakfast Cereals",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/breakfast-cereals/",
+      "retail_reference": "EGP 175.00"
+    },
+    {
+      "name": "Granola Dates And Mixed Seeds",
+      "brand": "Bruz",
+      "category": "Pantry",
+      "subcategory": "Breakfast Cereals",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/breakfast-cereals/",
+      "retail_reference": "EGP 175.00"
+    },
+    {
+      "name": "Wa7wy Ramadan (250g)",
+      "brand": "Bzour",
+      "category": "Pantry",
+      "subcategory": "Dried Fruits & Veggies",
+      "source": "https://rdnastore.com/product-category/snacks-sweets/",
+      "retail_reference": "EGP 240.00"
+    },
+    {
+      "name": "Black Eyed Peas (500g)",
+      "brand": "Dayma",
+      "category": "Pantry",
+      "subcategory": "Legumes & Grains",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/legumes-grains/",
+      "retail_reference": "EGP 92.00"
+    },
+    {
+      "name": "Black Pepper Milled (45g)",
+      "brand": "Dayma",
+      "category": "Pantry",
+      "subcategory": "Herbs, Spices & Seasoning",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/",
+      "retail_reference": "EGP 70.00"
+    },
+    {
+      "name": "Black Pepper Whole (50g)",
+      "brand": "Dayma",
+      "category": "Pantry",
+      "subcategory": "Herbs, Spices & Seasoning",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/",
+      "retail_reference": "EGP 106.00"
+    },
+    {
+      "name": "Cardamom",
+      "brand": "Dayma",
+      "category": "Pantry",
+      "subcategory": "Herbs, Spices & Seasoning",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/",
+      "retail_reference": "EGP 121.00"
+    },
+    {
+      "name": "Chickpeas (500g)",
+      "brand": "Dayma",
+      "category": "Pantry",
+      "subcategory": "Legumes & Grains",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/legumes-grains/",
+      "retail_reference": "EGP 99.00"
+    },
+    {
+      "name": "Cinnamon",
+      "brand": "Dayma",
+      "category": "Pantry",
+      "subcategory": "Herbs, Spices & Seasoning",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/",
+      "retail_reference": "EGP 39.00"
+    },
+    {
+      "name": "Cloves",
+      "brand": "Dayma",
+      "category": "Pantry",
+      "subcategory": "Herbs, Spices & Seasoning",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/",
+      "retail_reference": "EGP 70.00"
+    },
+    {
+      "name": "Coriander",
+      "brand": "Dayma",
+      "category": "Pantry",
+      "subcategory": "Herbs, Spices & Seasoning",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/",
+      "retail_reference": "EGP 42.00"
+    },
+    {
+      "name": "Cumin (40g)",
+      "brand": "Dayma",
+      "category": "Pantry",
+      "subcategory": "Herbs, Spices & Seasoning",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/",
+      "retail_reference": "EGP 64.00"
+    },
+    {
+      "name": "Fava Beans Egyptian (500g)",
+      "brand": "Dayma",
+      "category": "Pantry",
+      "subcategory": "Legumes & Grains",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/legumes-grains/",
+      "retail_reference": "EGP 65.00"
+    },
+    {
+      "name": "Ginger (30g)",
+      "brand": "Dayma",
+      "category": "Pantry",
+      "subcategory": "Herbs, Spices & Seasoning",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/",
+      "retail_reference": "EGP 40.00"
+    },
+    {
+      "name": "Himalayan Salt (110g)",
+      "brand": "Dayma",
+      "category": "Pantry",
+      "subcategory": "Legumes & Grains",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/legumes-grains/",
+      "retail_reference": "EGP 75.00"
+    },
+    {
+      "name": "Lupine",
+      "brand": "Dayma",
+      "category": "Pantry",
+      "subcategory": "Legumes & Grains",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/legumes-grains/",
+      "retail_reference": "EGP 72.00"
+    },
+    {
+      "name": "Popcorn",
+      "brand": "Dayma",
+      "category": "Pantry",
+      "subcategory": "Legumes & Grains",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/legumes-grains/",
+      "retail_reference": "EGP 86.00"
+    },
+    {
+      "name": "Rice Basmati",
+      "brand": "Dayma",
+      "category": "Pantry",
+      "subcategory": "Pasta & Rice",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/pasta-rice/",
+      "retail_reference": "EGP 149.00"
+    },
+    {
+      "name": "Rice White",
+      "brand": "Dayma",
+      "category": "Pantry",
+      "subcategory": "Pasta & Rice",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/pasta-rice/",
+      "retail_reference": "EGP 46.00"
+    },
+    {
+      "name": "White Beans (500g)",
+      "brand": "Dayma",
+      "category": "Pantry",
+      "subcategory": "Legumes & Grains",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/legumes-grains/",
+      "retail_reference": "EGP 96.00"
+    },
+    {
+      "name": "Yellow Lentils (500g)",
+      "brand": "Dayma",
+      "category": "Pantry",
+      "subcategory": "Legumes & Grains",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/legumes-grains/",
+      "retail_reference": "EGP 74.00"
+    },
+    {
+      "name": "Almond Raw (360g)",
+      "brand": "Dhyaan House",
+      "category": "Pantry",
+      "subcategory": "Nuts",
+      "source": "https://rdnastore.com/product-category/snacks-sweets/nuts/",
+      "retail_reference": "EGP 478.00"
+    },
+    {
+      "name": "Almond Roasted",
+      "brand": "Dhyaan House",
+      "category": "Pantry",
+      "subcategory": "Nuts",
+      "source": "https://rdnastore.com/product-category/snacks-sweets/nuts/",
+      "retail_reference": "EGP 179.00"
+    },
+    {
+      "name": "Apricot Dried",
+      "brand": "Dhyaan House",
+      "category": "Pantry",
+      "subcategory": "Nuts",
+      "source": "https://rdnastore.com/product-category/snacks-sweets/nuts/",
+      "retail_reference": "EGP 305.00"
+    },
+    {
+      "name": "Cashew Roasted Salted",
+      "brand": "Dhyaan House",
+      "category": "Pantry",
+      "subcategory": "Nuts",
+      "source": "https://rdnastore.com/product-category/snacks-sweets/nuts/",
+      "retail_reference": "EGP 194.00"
+    },
+    {
+      "name": "Fig Dried",
+      "brand": "Dhyaan House",
+      "category": "Pantry",
+      "subcategory": "Dried Fruits & Veggies",
+      "source": "https://rdnastore.com/product-category/snacks-sweets/",
+      "retail_reference": "EGP 389.00"
+    },
+    {
+      "name": "Nuts Mixed",
+      "brand": "Dhyaan House",
+      "category": "Pantry",
+      "subcategory": "Nuts",
+      "source": "https://rdnastore.com/product-category/snacks-sweets/nuts/",
+      "retail_reference": "EGP 189.00"
+    },
+    {
+      "name": "Pistachio Roasted Salted",
+      "brand": "Dhyaan House",
+      "category": "Pantry",
+      "subcategory": "Nuts",
+      "source": "https://rdnastore.com/product-category/snacks-sweets/nuts/",
+      "retail_reference": "EGP 200.00"
+    },
+    {
+      "name": "Prunes",
+      "brand": "Dhyaan House",
+      "category": "Pantry",
+      "subcategory": "Dried Fruits & Veggies",
+      "source": "https://rdnastore.com/product-category/snacks-sweets/",
+      "retail_reference": "EGP 257.00"
+    },
+    {
+      "name": "Raisins Iranian",
+      "brand": "Dhyaan House",
+      "category": "Pantry",
+      "subcategory": "Dried Fruits & Veggies",
+      "source": "https://rdnastore.com/product-category/snacks-sweets/",
+      "retail_reference": "EGP 231.00"
+    },
+    {
+      "name": "Walnuts Peeled",
+      "brand": "Dhyaan House",
+      "category": "Pantry",
+      "subcategory": "Nuts",
+      "source": "https://rdnastore.com/product-category/snacks-sweets/nuts/",
+      "retail_reference": "EGP 158.00"
+    },
+    {
+      "name": "Honey Desert Herbs",
+      "brand": "Dr Bee",
+      "category": "Pantry",
+      "subcategory": "Honey & Sweeteners",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/",
+      "retail_reference": "EGP 170.00"
+    },
+    {
+      "name": "Honey Marjoram",
+      "brand": "Dr Bee",
+      "category": "Pantry",
+      "subcategory": "Honey & Sweeteners",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/",
+      "retail_reference": "EGP 170.00"
+    },
+    {
+      "name": "Honey Sidr",
+      "brand": "Dr Bee",
+      "category": "Pantry",
+      "subcategory": "Honey & Sweeteners",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/",
+      "retail_reference": "EGP 400.00"
+    },
+    {
+      "name": "Olive Oil Extra Virgin",
+      "brand": "Dr Olive",
+      "category": "Pantry",
+      "subcategory": "Olive Oil",
+      "source": "https://rdnastore.com/product-category/oils-fats/olive-oil/",
+      "retail_reference": "EGP 275.00"
+    },
+    {
+      "name": "Oat Flakes",
+      "brand": "Dr.foods",
+      "category": "Pantry",
+      "subcategory": "Breakfast Cereals",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/breakfast-cereals/",
+      "retail_reference": "EGP 75.00"
+    },
+    {
+      "name": "Pasta Hummus",
+      "brand": "Dr.foods",
+      "category": "Pantry",
+      "subcategory": "Pasta & Rice",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/pasta-rice/",
+      "retail_reference": "EGP 65.00"
+    },
+    {
+      "name": "Pasta Lentil",
+      "brand": "Dr.foods",
+      "category": "Pantry",
+      "subcategory": "Pasta & Rice",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/pasta-rice/",
+      "retail_reference": "EGP 65.00"
+    },
+    {
+      "name": "Pasta Oats With Psyllium",
+      "brand": "Dr.foods",
+      "category": "Pantry",
+      "subcategory": "Pasta & Rice",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/pasta-rice/",
+      "retail_reference": "EGP 72.00"
+    },
+    {
+      "name": "Pasta Quinoa",
+      "brand": "Dr.foods",
+      "category": "Pantry",
+      "subcategory": "Pasta & Rice",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/pasta-rice/",
+      "retail_reference": "EGP 65.00"
+    },
+    {
+      "name": "Pasta Sauteed Vegetables",
+      "brand": "Dr.foods",
+      "category": "Pantry",
+      "subcategory": "Pasta & Rice",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/pasta-rice/",
+      "retail_reference": "EGP 65.00"
+    },
+    {
+      "name": "Pasta Spinach",
+      "brand": "Dr.foods",
+      "category": "Pantry",
+      "subcategory": "Pasta & Rice",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/pasta-rice/",
+      "retail_reference": "EGP 65.00"
+    },
+    {
+      "name": "Pasta Whole Wheat",
+      "brand": "Dr.foods",
+      "category": "Pantry",
+      "subcategory": "Pasta & Rice",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/pasta-rice/",
+      "retail_reference": "EGP 65.00"
+    },
+    {
+      "name": "Vinegar Apple Cider",
+      "brand": "Dr.foods",
+      "category": "Pantry",
+      "subcategory": "Fermented Condiments & Vinegars",
+      "source": "https://rdnastore.com/product-category/gut-health-ferments/?inventory=129",
+      "retail_reference": "EGP 290.00"
+    },
+    {
+      "name": "Hot Honey",
+      "brand": "Emilia",
+      "category": "Pantry",
+      "subcategory": "Sauces",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/sauces/",
+      "retail_reference": "EGP 140.00"
+    },
+    {
+      "name": "Granola",
+      "brand": "Gogo",
+      "category": "Pantry",
+      "subcategory": "Breakfast Cereals",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/breakfast-cereals/",
+      "retail_reference": "EGP 190.00"
+    },
+    {
+      "name": "Kimchi Korean",
+      "brand": "Good Gut Mama",
+      "category": "Pantry",
+      "subcategory": "Fermented Vegetables",
+      "source": "https://rdnastore.com/product-category/gut-health-ferments/?inventory=129",
+      "retail_reference": "EGP 600.00"
+    },
+    {
+      "name": "Sauerkraut Apple Beetroot",
+      "brand": "Good Gut Mama",
+      "category": "Pantry",
+      "subcategory": "Fermented Vegetables",
+      "source": "https://rdnastore.com/product-category/gut-health-ferments/?inventory=129",
+      "retail_reference": "EGP 534.00"
+    },
+    {
+      "name": "Sauerkraut Ginger Apple",
+      "brand": "Good Gut Mama",
+      "category": "Pantry",
+      "subcategory": "Fermented Vegetables",
+      "source": "https://rdnastore.com/product-category/gut-health-ferments/?inventory=129",
+      "retail_reference": "EGP 534.00"
+    },
+    {
+      "name": "Sauerkraut Turmeric Fennel",
+      "brand": "Good Gut Mama",
+      "category": "Pantry",
+      "subcategory": "Fermented Vegetables",
+      "source": "https://rdnastore.com/product-category/gut-health-ferments/?inventory=129",
+      "retail_reference": "EGP 534.00"
+    },
+    {
+      "name": "Chocolate 85% Cocoa Classic Dark Sugar Free (57g)",
+      "brand": "Grazel",
+      "category": "Pantry",
+      "subcategory": "Chocolates",
+      "source": "https://rdnastore.com/product-category/snacks-sweets/",
+      "retail_reference": "EGP 159.95"
+    },
+    {
+      "name": "Chocolate 85% Cocoa Dark Keto Sugar Free",
+      "brand": "Grazel",
+      "category": "Pantry",
+      "subcategory": "Chocolates",
+      "source": "https://rdnastore.com/product-category/snacks-sweets/",
+      "retail_reference": "EGP 115.00"
+    },
+    {
+      "name": "Chocolate Almond Amber Sugar Free",
+      "brand": "Grazel",
+      "category": "Pantry",
+      "subcategory": "Chocolates",
+      "source": "https://rdnastore.com/product-category/snacks-sweets/",
+      "retail_reference": "EGP 100.00"
+    },
+    {
+      "name": "Chocolate Dark Spread Keto",
+      "brand": "Grazel",
+      "category": "Pantry",
+      "subcategory": "Chocolates",
+      "source": "https://rdnastore.com/product-category/snacks-sweets/",
+      "retail_reference": "EGP 256.50"
+    },
+    {
+      "name": "Chocolate Hazelnut Amour Sugar Free (35g)",
+      "brand": "Grazel",
+      "category": "Pantry",
+      "subcategory": "Chocolates",
+      "source": "https://rdnastore.com/product-category/snacks-sweets/",
+      "retail_reference": "EGP 100.00"
+    },
+    {
+      "name": "Chocolate Milk Whole Almond Sugar Free (85g)",
+      "brand": "Grazel",
+      "category": "Pantry",
+      "subcategory": "Chocolates",
+      "source": "https://rdnastore.com/product-category/snacks-sweets/",
+      "retail_reference": "EGP 195.00"
+    },
+    {
+      "name": "Chocolate Mint Whisper Sugar Free",
+      "brand": "Grazel",
+      "category": "Pantry",
+      "subcategory": "Chocolates",
+      "source": "https://rdnastore.com/product-category/snacks-sweets/",
+      "retail_reference": "EGP 100.00"
+    },
+    {
+      "name": "Chocolate Twilight Milk Sugar Free",
+      "brand": "Grazel",
+      "category": "Pantry",
+      "subcategory": "Chocolates",
+      "source": "https://rdnastore.com/product-category/snacks-sweets/",
+      "retail_reference": "EGP 100.00"
+    },
+    {
+      "name": "Chocolate Velvet Orange Sugar Free",
+      "brand": "Grazel",
+      "category": "Pantry",
+      "subcategory": "Chocolates",
+      "source": "https://rdnastore.com/product-category/snacks-sweets/",
+      "retail_reference": "EGP 100.00"
+    },
+    {
+      "name": "Kabsa Spices",
+      "brand": "Imtenan",
+      "category": "Pantry",
+      "subcategory": "Herbs, Spices & Seasoning",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/",
+      "retail_reference": "EGP 79.00"
+    },
+    {
+      "name": "Oats Organic",
+      "brand": "Imtenan",
+      "category": "Pantry",
+      "subcategory": "Breakfast Cereals",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/breakfast-cereals/",
+      "retail_reference": "EGP 75.00"
+    },
+    {
+      "name": "Chili Red Pepper",
+      "brand": "Isis",
+      "category": "Pantry",
+      "subcategory": "Herbs, Spices & Seasoning",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/",
+      "retail_reference": "EGP 26.00"
+    },
+    {
+      "name": "Curry",
+      "brand": "Isis",
+      "category": "Pantry",
+      "subcategory": "Herbs, Spices & Seasoning",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/",
+      "retail_reference": "EGP 37.00"
+    },
+    {
+      "name": "Honey Marjoram",
+      "brand": "Isis",
+      "category": "Pantry",
+      "subcategory": "Honey & Sweeteners",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/",
+      "retail_reference": "EGP 85.00"
+    },
+    {
+      "name": "Maamoul With Dates And Butter",
+      "brand": "Isis",
+      "category": "Pantry",
+      "subcategory": "Dates",
+      "source": "https://rdnastore.com/product-category/snacks-sweets/dates/",
+      "retail_reference": "EGP 6.00"
+    },
+    {
+      "name": "Olive Oil Extra Virgin",
+      "brand": "Isis",
+      "category": "Pantry",
+      "subcategory": "Olive Oil",
+      "source": "https://rdnastore.com/product-category/oils-fats/olive-oil/",
+      "retail_reference": "EGP 760.00"
+    },
+    {
+      "name": "Bar Dates Almond Dark Chocolate",
+      "brand": "Knouz",
+      "category": "Pantry",
+      "subcategory": "Power Bars",
+      "source": "https://rdnastore.com/product-category/snacks-sweets/",
+      "retail_reference": "EGP 48.00"
+    },
+    {
+      "name": "Bar Dates Siwi Peanuts Dark Chocolate",
+      "brand": "Knouz",
+      "category": "Pantry",
+      "subcategory": "Power Bars",
+      "source": "https://rdnastore.com/product-category/snacks-sweets/",
+      "retail_reference": "EGP 39.00"
+    },
+    {
+      "name": "Date Syrup",
+      "brand": "Knouz",
+      "category": "Pantry",
+      "subcategory": "Dates",
+      "source": "https://rdnastore.com/product-category/snacks-sweets/dates/",
+      "retail_reference": "EGP 55.00"
+    },
+    {
+      "name": "Dates Juicy Jumbo (650g)",
+      "brand": "Knouz",
+      "category": "Pantry",
+      "subcategory": "Dates",
+      "source": "https://rdnastore.com/product-category/snacks-sweets/dates/",
+      "retail_reference": "EGP 415.00"
+    },
+    {
+      "name": "Dates Majdool Large",
+      "brand": "Knouz",
+      "category": "Pantry",
+      "subcategory": "Dates",
+      "source": "https://rdnastore.com/product-category/snacks-sweets/dates/",
+      "retail_reference": "EGP 145.00"
+    },
+    {
+      "name": "Dates Majdoul Mix Nuts and Chocolate",
+      "brand": "Knouz",
+      "category": "Pantry",
+      "subcategory": "Dates",
+      "source": "https://rdnastore.com/product-category/snacks-sweets/dates/",
+      "retail_reference": "EGP 72.00"
+    },
+    {
+      "name": "Dates Majdoul Nut Balls and Chocolate",
+      "brand": "Knouz",
+      "category": "Pantry",
+      "subcategory": "Dates",
+      "source": "https://rdnastore.com/product-category/snacks-sweets/dates/",
+      "retail_reference": "EGP 200.00"
+    },
+    {
+      "name": "Dates Majdoul Nut Balls and Chocolate Box Gift",
+      "brand": "Knouz",
+      "category": "Pantry",
+      "subcategory": "Dates",
+      "source": "https://rdnastore.com/product-category/snacks-sweets/dates/",
+      "retail_reference": "EGP 685.00"
+    },
+    {
+      "name": "Dates Majdoul Nuts and Chocolate",
+      "brand": "Knouz",
+      "category": "Pantry",
+      "subcategory": "Dates",
+      "source": "https://rdnastore.com/product-category/snacks-sweets/dates/",
+      "retail_reference": "EGP 320.00"
+    },
+    {
+      "name": "Dates Majdoul Plain Jar",
+      "brand": "Knouz",
+      "category": "Pantry",
+      "subcategory": "Dates",
+      "source": "https://rdnastore.com/product-category/snacks-sweets/dates/",
+      "retail_reference": "EGP 63.00"
+    },
+    {
+      "name": "Dates Premium Al wadi",
+      "brand": "Knouz",
+      "category": "Pantry",
+      "subcategory": "Dates",
+      "source": "https://rdnastore.com/product-category/snacks-sweets/dates/",
+      "retail_reference": "EGP 100.00"
+    },
+    {
+      "name": "Honey Medicinal Herb (340g)",
+      "brand": "Kumshuka",
+      "category": "Pantry",
+      "subcategory": "Honey & Sweeteners",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/",
+      "retail_reference": "EGP 540.00"
+    },
+    {
+      "name": "Honey Medicinal Herb (500g)",
+      "brand": "Kumshuka",
+      "category": "Pantry",
+      "subcategory": "Honey & Sweeteners",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/",
+      "retail_reference": "EGP 780.00"
+    },
+    {
+      "name": "Honey Orange Blossom (340g)",
+      "brand": "Kumshuka",
+      "category": "Pantry",
+      "subcategory": "Honey & Sweeteners",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/",
+      "retail_reference": "EGP 300.00"
+    },
+    {
+      "name": "Honey Orange Blossom (500g)",
+      "brand": "Kumshuka",
+      "category": "Pantry",
+      "subcategory": "Honey & Sweeteners",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/",
+      "retail_reference": "EGP 350.00"
+    },
+    {
+      "name": "Honey Sidr (340g)",
+      "brand": "Kumshuka",
+      "category": "Pantry",
+      "subcategory": "Honey & Sweeteners",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/",
+      "retail_reference": "EGP 1,260.00"
+    },
+    {
+      "name": "Honey Sidr (500g)",
+      "brand": "Kumshuka",
+      "category": "Pantry",
+      "subcategory": "Honey & Sweeteners",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/",
+      "retail_reference": "EGP 1,860.00"
+    },
+    {
+      "name": "Honey Spring Flower (500g)",
+      "brand": "Kumshuka",
+      "category": "Pantry",
+      "subcategory": "Honey & Sweeteners",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/",
+      "retail_reference": "EGP 400.00"
+    },
+    {
+      "name": "Honey Banana Flower",
+      "brand": "Lara's Premium",
+      "category": "Pantry",
+      "subcategory": "Honey & Sweeteners",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/",
+      "retail_reference": "EGP 230.00"
+    },
+    {
+      "name": "Honey Citrus Raw",
+      "brand": "Lara's Premium",
+      "category": "Pantry",
+      "subcategory": "Honey & Sweeteners",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/",
+      "retail_reference": "EGP 230.00"
+    },
+    {
+      "name": "Honey Clover Raw",
+      "brand": "Lara's Premium",
+      "category": "Pantry",
+      "subcategory": "Honey & Sweeteners",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/",
+      "retail_reference": "EGP 230.00"
+    },
+    {
+      "name": "Honey Cottonleaf Raw",
+      "brand": "Lara's Premium",
+      "category": "Pantry",
+      "subcategory": "Honey & Sweeteners",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/",
+      "retail_reference": "EGP 230.00"
+    },
+    {
+      "name": "Honey Wild Flower Raw",
+      "brand": "Lara's Premium",
+      "category": "Pantry",
+      "subcategory": "Honey & Sweeteners",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/",
+      "retail_reference": "EGP 230.00"
+    },
+    {
+      "name": "Fish Seasoning",
+      "brand": "Les Secrets",
+      "category": "Pantry",
+      "subcategory": "Herbs, Spices & Seasoning",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/",
+      "retail_reference": "EGP 98.00"
+    },
+    {
+      "name": "Dates Medjool Peanut Butter",
+      "brand": "Linah Farms",
+      "category": "Pantry",
+      "subcategory": "Dates",
+      "source": "https://rdnastore.com/product-category/snacks-sweets/dates/",
+      "retail_reference": "EGP 103.00"
+    },
+    {
+      "name": "Ketchup",
+      "brand": "Naturesta",
+      "category": "Pantry",
+      "subcategory": "Sauces",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/sauces/",
+      "retail_reference": "EGP 125.00"
+    },
+    {
+      "name": "Mustard Yellow",
+      "brand": "Naturesta",
+      "category": "Pantry",
+      "subcategory": "Sauces",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/sauces/",
+      "retail_reference": "EGP 120.00"
+    },
+    {
+      "name": "Paste Tomato",
+      "brand": "Naturesta",
+      "category": "Pantry",
+      "subcategory": "Sauces",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/sauces/",
+      "retail_reference": "EGP 79.00"
+    },
+    {
+      "name": "Sauce BBQ Classic",
+      "brand": "Naturesta",
+      "category": "Pantry",
+      "subcategory": "Sauces",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/sauces/",
+      "retail_reference": "EGP 130.00"
+    },
+    {
+      "name": "Cranberry Dried Slices",
+      "brand": "Olivador",
+      "category": "Pantry",
+      "subcategory": "Dried Fruits & Veggies",
+      "source": "https://rdnastore.com/product-category/snacks-sweets/",
+      "retail_reference": "EGP 175.00"
+    },
+    {
+      "name": "Mix Cherries Berries",
+      "brand": "Olivador",
+      "category": "Pantry",
+      "subcategory": "Dried Fruits & Veggies",
+      "source": "https://rdnastore.com/product-category/snacks-sweets/",
+      "retail_reference": "EGP 250.00"
+    },
+    {
+      "name": "Bar Cranberry & Nut",
+      "brand": "Own",
+      "category": "Pantry",
+      "subcategory": "Power Bars",
+      "source": "https://rdnastore.com/product-category/snacks-sweets/",
+      "retail_reference": "EGP 50.00"
+    },
+    {
+      "name": "Bar Dark Chocolate & Nut",
+      "brand": "Own",
+      "category": "Pantry",
+      "subcategory": "Power Bars",
+      "source": "https://rdnastore.com/product-category/snacks-sweets/",
+      "retail_reference": "EGP 50.00"
+    },
+    {
+      "name": "Bar Dates & Nut",
+      "brand": "Own",
+      "category": "Pantry",
+      "subcategory": "Dates",
+      "source": "https://rdnastore.com/product-category/snacks-sweets/dates/",
+      "retail_reference": "EGP 50.00"
+    },
+    {
+      "name": "Granola Coconut Almond",
+      "brand": "Own",
+      "category": "Pantry",
+      "subcategory": "Breakfast Cereals",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/breakfast-cereals/",
+      "retail_reference": "EGP 205.00"
+    },
+    {
+      "name": "Granola Cranberry Cashew",
+      "brand": "Own",
+      "category": "Pantry",
+      "subcategory": "Breakfast Cereals",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/breakfast-cereals/",
+      "retail_reference": "EGP 205.00"
+    },
+    {
+      "name": "Granola Double Dark Chocolate",
+      "brand": "Own",
+      "category": "Pantry",
+      "subcategory": "Breakfast Cereals",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/breakfast-cereals/",
+      "retail_reference": "EGP 205.00"
+    },
+    {
+      "name": "Granola Honey Nut",
+      "brand": "Own",
+      "category": "Pantry",
+      "subcategory": "Breakfast Cereals",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/breakfast-cereals/",
+      "retail_reference": "EGP 205.00"
+    },
+    {
+      "name": "Granola Strawberry",
+      "brand": "Own",
+      "category": "Pantry",
+      "subcategory": "Breakfast Cereals",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/breakfast-cereals/",
+      "retail_reference": "EGP 205.00"
+    },
+    {
+      "name": "Jam Honey Blackberry",
+      "brand": "Pico",
+      "category": "Pantry",
+      "subcategory": "Jams",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/",
+      "retail_reference": "EGP 145.00"
+    },
+    {
+      "name": "Jam Honey Blueberry",
+      "brand": "Pico",
+      "category": "Pantry",
+      "subcategory": "Jams",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/",
+      "retail_reference": "EGP 145.00"
+    },
+    {
+      "name": "Jam Honey Mix Berries",
+      "brand": "Pico",
+      "category": "Pantry",
+      "subcategory": "Jams",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/",
+      "retail_reference": "EGP 145.00"
+    },
+    {
+      "name": "Jam Honey Strwaberry",
+      "brand": "Pico",
+      "category": "Pantry",
+      "subcategory": "Jams",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/",
+      "retail_reference": "EGP 120.00"
+    },
+    {
+      "name": "Jam Apricot",
+      "brand": "Santariyya",
+      "category": "Pantry",
+      "subcategory": "Jams",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/",
+      "retail_reference": "EGP 70.00"
+    },
+    {
+      "name": "Jam Bitter Orange",
+      "brand": "Santariyya",
+      "category": "Pantry",
+      "subcategory": "Jams",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/",
+      "retail_reference": "EGP 70.00"
+    },
+    {
+      "name": "Jam Fig",
+      "brand": "Santariyya",
+      "category": "Pantry",
+      "subcategory": "Jams",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/",
+      "retail_reference": "EGP 70.00"
+    },
+    {
+      "name": "Jam Strawberry",
+      "brand": "Santariyya",
+      "category": "Pantry",
+      "subcategory": "Jams",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/",
+      "retail_reference": "EGP 75.00"
+    },
+    {
+      "name": "Molasses Pomegranate",
+      "brand": "Santariyya",
+      "category": "Pantry",
+      "subcategory": "Sauces",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/sauces/",
+      "retail_reference": "EGP 110.00"
+    },
+    {
+      "name": "Olive Oil Extra Virgin",
+      "brand": "Santariyya",
+      "category": "Pantry",
+      "subcategory": "Olive Oil",
+      "source": "https://rdnastore.com/product-category/oils-fats/olive-oil/",
+      "retail_reference": "EGP 430.00"
+    },
+    {
+      "name": "Pickled Cucumber Cherkins",
+      "brand": "Santariyya",
+      "category": "Pantry",
+      "subcategory": "Pickled & Fermented",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/pickled-fermented/",
+      "retail_reference": "EGP 63.00"
+    },
+    {
+      "name": "Pickled Lemon Green Whole",
+      "brand": "Santariyya",
+      "category": "Pantry",
+      "subcategory": "Pickled & Fermented",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/pickled-fermented/",
+      "retail_reference": "EGP 37.00"
+    },
+    {
+      "name": "Pickled Olives Dolce Cracked",
+      "brand": "Santariyya",
+      "category": "Pantry",
+      "subcategory": "Pickled & Fermented",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/pickled-fermented/",
+      "retail_reference": "EGP 45.50"
+    },
+    {
+      "name": "Pickled Olives Dolce With Herbs",
+      "brand": "Santariyya",
+      "category": "Pantry",
+      "subcategory": "Pickled & Fermented",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/pickled-fermented/",
+      "retail_reference": "EGP 45.50"
+    },
+    {
+      "name": "Pickled Olives Kalamata With Herbs",
+      "brand": "Santariyya",
+      "category": "Pantry",
+      "subcategory": "Pickled & Fermented",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/pickled-fermented/",
+      "retail_reference": "EGP 49.50"
+    },
+    {
+      "name": "Black Eyed Peas Organic",
+      "brand": "Sekem",
+      "category": "Pantry",
+      "subcategory": "Legumes & Grains",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/legumes-grains/",
+      "retail_reference": "EGP 99.00"
+    },
+    {
+      "name": "Fava Beans Organic",
+      "brand": "Sekem",
+      "category": "Pantry",
+      "subcategory": "Legumes & Grains",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/legumes-grains/",
+      "retail_reference": "EGP 45.00"
+    },
+    {
+      "name": "Kidney Beans Organic",
+      "brand": "Sekem",
+      "category": "Pantry",
+      "subcategory": "Legumes & Grains",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/legumes-grains/",
+      "retail_reference": "EGP 120.00"
+    },
+    {
+      "name": "Lentils Yellow Organic",
+      "brand": "Sekem",
+      "category": "Pantry",
+      "subcategory": "Legumes & Grains",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/legumes-grains/",
+      "retail_reference": "EGP 70.00"
+    },
+    {
+      "name": "Quinoa White Organic",
+      "brand": "Sekem",
+      "category": "Pantry",
+      "subcategory": "Legumes & Grains",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/legumes-grains/",
+      "retail_reference": "EGP 120.00"
+    },
+    {
+      "name": "Rice Organic",
+      "brand": "Sekem",
+      "category": "Pantry",
+      "subcategory": "Pasta & Rice",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/pasta-rice/",
+      "retail_reference": "EGP 33.00"
+    },
+    {
+      "name": "Sauerkraut",
+      "brand": "Tuna Island",
+      "category": "Pantry",
+      "subcategory": "Fermented Vegetables",
+      "source": "https://rdnastore.com/product-category/gut-health-ferments/?inventory=129",
+      "retail_reference": "EGP 160.00"
+    },
+    {
+      "name": "Sauerkraut Gold",
+      "brand": "Tuna Island",
+      "category": "Pantry",
+      "subcategory": "Fermented Vegetables",
+      "source": "https://rdnastore.com/product-category/gut-health-ferments/?inventory=129",
+      "retail_reference": "EGP 180.00"
+    },
+    {
+      "name": "Mango Dried Fruits Crunchy",
+      "brand": "Wellz",
+      "category": "Pantry",
+      "subcategory": "Dried Fruits & Veggies",
+      "source": "https://rdnastore.com/product-category/snacks-sweets/",
+      "retail_reference": "EGP 190.00"
+    },
+    {
+      "name": "Mix Dried Fruits Crunchy",
+      "brand": "Wellz",
+      "category": "Pantry",
+      "subcategory": "Dried Fruits & Veggies",
+      "source": "https://rdnastore.com/product-category/snacks-sweets/",
+      "retail_reference": "EGP 140.00"
+    },
+    {
+      "name": "Noodles Glass",
+      "brand": "Zumra",
+      "category": "Pantry",
+      "subcategory": "Pasta & Rice",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/pasta-rice/",
+      "retail_reference": "EGP 125.00"
+    },
+    {
+      "name": "Sauce Sriracha",
+      "brand": "Zumra",
+      "category": "Pantry",
+      "subcategory": "Sauces",
+      "source": "https://rdnastore.com/product-category/kitchen-essentials/sauces/",
+      "retail_reference": "EGP 215.00"
+    }
+  ]
+}
